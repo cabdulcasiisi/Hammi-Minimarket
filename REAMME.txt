@@ -1,0 +1,16 @@
+# Hami MiniMarket Landing Page
+
+## 🧩 Project Purpose
+A responsive landing page for Hami MiniMarket, showcasing fresh fruits & vegetables and allowing users to contact the market.
+
+## 💻 Technologies Used
+- HTML5 (semantic structure)  
+- CSS3 (Flexbox + Grid)  
+- JavaScript (form validation + back-to-top button)
+
+## 🚀 How to Run
+1. Download or clone this repository.  
+2. Open `index.html` in your browser.  
+
+## 🔗 Live Project Link
+https://github.com/cabdulcasiisi/Hami-Minimarket.git
